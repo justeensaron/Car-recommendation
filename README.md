@@ -1,16 +1,66 @@
-# React + Vite
+# 🚗 Car World - Luxury Car Recommendation Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive luxury car recommendation website built using React JS.
 
-Currently, two official plugins are available:
+This project showcases premium sports cars with:
+- Live car videos
+- Modern UI animations
+- Luxury glassmorphism design
+- Car details page
+- Buy Now feature
+- React Router navigation
+- Interactive hover effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Luxury Car Landing Page  
+✅ Animated Background  
+✅ Live Car Videos  
+✅ Car Details Page  
+✅ Buy Now Success Alert  
+✅ Responsive Card Design  
+✅ Professional Navbar  
+✅ Separate Pages:
+- Home
+- Cars
+- About
+- Contact
+- Details
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Technologies Used
+
+- React JS
+- React Router DOM
+- JavaScript
+- CSS Animations
+- HTML5 Video
+
+---
+
+# 📂 Project Structure
+
+src
+│
+├── component
+│   ├── Cars.js
+│   ├── Details.jsx
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   └── CarsPage.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
+---
+
+# 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/justeensaron/Car-recommendation.git
